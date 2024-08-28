@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Frameworks,courses**
 
-- 💬 Ask me about **Cloud computing**
+- 💬 Ask me about **Web Development**
 
 - 📫 How to reach me **omkardhu2019@gmail.com**
 
